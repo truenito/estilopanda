@@ -1,0 +1,29 @@
+.at_showcase_overlay.at_with_blog_cover {
+ background-image: none;
+ background-color: rgba(0,0,0,.75);
+}
+
+#at_header {
+ background: #000;
+}
+
+#at_footer {
+ color: #fff;
+ background: #000;
+ font-size: 12px;
+}
+
+a {
+color: black;
+ -webkit-transition: color .2s ease-in;
+ -moz-transition: color .2s ease-in;
+ transition: color .2s ease-in;
+}
+
+#at_footer a {
+color: #0d96c8;
+-webkit-transition: color .2s ease-in;
+-moz-transition: color .2s ease-in;
+transition: color .2s ease-in;
+}
+
